@@ -8,7 +8,7 @@ ThreatLens is a lightweight **Streamlit** web app that checks whether an **IP ad
 
 ## 🔗 Live Demo
 
-**[Try ThreatLens live →](YOUR_LIVE_APP_LINK_HERE)**
+**[Try ThreatLens live →](https://threatlens-by-sweeta.streamlit.app/)**
 
 ---
 
@@ -68,7 +68,7 @@ That's it — `app.py` automatically calls it, includes its data in the LLM prom
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/threatlens.git
+git clone https://github.com/Sweeta-w/threatlens.git
 cd threatlens
 ```
 
