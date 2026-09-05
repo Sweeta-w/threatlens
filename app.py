@@ -373,7 +373,7 @@ def render_source_results(source_results: list[dict[str, Any]]) -> None:
 def main() -> None:
     st.set_page_config(page_title="ThreatLens", page_icon="🛡️", layout="centered")
 
-    st.title("🛡️ ThreatLens")
+    st.title("🛡️ ThreatLens By Sweeta")
     st.caption("IP, Domain & URL Safety Analyzer — powered by VirusTotal, WHOIS, and Groq.")
     st.divider()
 
